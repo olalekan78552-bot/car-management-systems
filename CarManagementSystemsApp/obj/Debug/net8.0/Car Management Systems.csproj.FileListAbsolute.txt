@@ -1,0 +1,15 @@
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\bin\Debug\net8.0\Car Management Systems.exe
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\bin\Debug\net8.0\Car Management Systems.deps.json
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\bin\Debug\net8.0\Car Management Systems.runtimeconfig.json
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\bin\Debug\net8.0\Car Management Systems.dll
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\bin\Debug\net8.0\Car Management Systems.pdb
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.AssemblyInfoInputs.cache
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.AssemblyInfo.cs
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.csproj.CoreCompileInputs.cache
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.sourcelink.json
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.dll
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\refint\Car Management Systems.dll
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.pdb
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\Car Management Systems.genruntimeconfig.cache
+C:\Users\olale\source\repos\project-1-olalekan78552-bot\Car Management Systems\Car Management Systems\obj\Debug\net8.0\ref\Car Management Systems.dll

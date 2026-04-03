@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|c:\\users\\olale\\source\\repos\\car management systems\\car management systems\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|solutionrelative:car management systems\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|c:\\users\\olale\\source\\repos\\car management systems\\car management systems\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|solutionrelative:car management systems\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|c:\\users\\olale\\source\\repos\\car management systems\\car management systems\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|solutionrelative:car management systems\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|c:\\users\\olale\\source\\repos\\car management systems\\car management systems\\iautomobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|solutionrelative:car management systems\\iautomobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|c:\\users\\olale\\source\\repos\\car management systems\\car management systems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42C0F-B621-EB14-968D-7BAD43476AE7}|Car Management Systems\\Car Management Systems.csproj|solutionrelative:car management systems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Truck.cs",
+              "RelativeDocumentMoniker": "Car Management Systems\\Truck.cs",
+              "ToolTip": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Truck.cs",
+              "RelativeToolTip": "Car Management Systems\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:05:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Car.cs",
+              "RelativeDocumentMoniker": "Car Management Systems\\Car.cs",
+              "ToolTip": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Car.cs",
+              "RelativeToolTip": "Car Management Systems\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:56:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Automobile.cs",
+              "RelativeDocumentMoniker": "Car Management Systems\\Automobile.cs",
+              "ToolTip": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Automobile.cs",
+              "RelativeToolTip": "Car Management Systems\\Automobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:39:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutomobile.cs",
+              "DocumentMoniker": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\IAutomobile.cs",
+              "RelativeDocumentMoniker": "Car Management Systems\\IAutomobile.cs",
+              "ToolTip": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\IAutomobile.cs",
+              "RelativeToolTip": "Car Management Systems\\IAutomobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:38:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Program.cs",
+              "RelativeDocumentMoniker": "Car Management Systems\\Program.cs",
+              "ToolTip": "C:\\Users\\olale\\source\\repos\\Car Management Systems\\Car Management Systems\\Program.cs",
+              "RelativeToolTip": "Car Management Systems\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:37:34.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\bin\Debug\net8.0\CarManagementSystemsApp.exe
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\bin\Debug\net8.0\CarManagementSystemsApp.deps.json
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\bin\Debug\net8.0\CarManagementSystemsApp.runtimeconfig.json
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\bin\Debug\net8.0\CarManagementSystemsApp.dll
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\bin\Debug\net8.0\CarManagementSystemsApp.pdb
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.AssemblyInfoInputs.cache
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.AssemblyInfo.cs
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.csproj.CoreCompileInputs.cache
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.dll
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\refint\CarManagementSystemsApp.dll
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.pdb
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\CarManagementSystemsApp.genruntimeconfig.cache
+C:\Users\olale\source\repos\CarManagementSystemsApp\CarManagementSystemsApp\obj\Debug\net8.0\ref\CarManagementSystemsApp.dll
